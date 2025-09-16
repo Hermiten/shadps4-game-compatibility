@@ -8,19 +8,44 @@ PlayStation 4 games compatibility reports with shadPS4 emulator.
 
 ## Current Compatibility Overview
 
-| Status         | Open Issues                                                                                                                   | Description                          |
-|----------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------|
-| Playable       | ![Playable](https://img.shields.io/github/issues-search/shadps4-compatibility/shadps4-game-compatibility?query=is%3Aopen+label%3Astatus-playable&style=for-the-badge&color=brightgreen&label=Playable)      | Games playable without major issues      |
-| In-game        | ![Ingame](https://img.shields.io/github/issues-search/shadps4-compatibility/shadps4-game-compatibility?query=is%3Aopen+label%3Astatus-ingame&style=for-the-badge&color=yellow&label=Ingame)                   | Games reaching gameplay with issues      |
-| Menus          | ![Menus](https://img.shields.io/github/issues-search/shadps4-compatibility/shadps4-game-compatibility?query=is%3Aopen+label%3Astatus-menus&style=for-the-badge&color=orange&label=Menus)                        | Games freezing/crashing after menus       |
-| Boots          | ![Boots](https://img.shields.io/github/issues-search/shadps4-compatibility/shadps4-game-compatibility?query=is%3Aopen+label%3Astatus-boots&style=for-the-badge&color=red&label=Boots)                          | Games freezing/crashing before menus      |
-| Nothing        | ![Nothing](https://img.shields.io/github/issues-search/shadps4-compatibility/shadps4-game-compatibility?query=is%3Aopen+label%3Astatus-nothing&style=for-the-badge&color=black&label=Nothing)                  | Games not launching or black screens      |
+<h2 align="center">
+<a href="https://github.com/shadps4-compatibility/shadps4-game-compatibility/labels/status-playable">
+    <img src="https://img.shields.io/github/issues-search/shadps4-compatibility/shadps4-game-compatibility?query=is%3Aopen+label%3Astatus-playable&style=for-the-badge&color=brightgreen&label=Playable"/>
+<a href="https://github.com/shadps4-compatibility/shadps4-game-compatibility/labels/status-ingame">
+    <img src="https://img.shields.io/github/issues-search/shadps4-compatibility/shadps4-game-compatibility?query=is%3Aopen+label%3Astatus-ingame&style=for-the-badge&color=yellow&label=Ingame"/>
+<a href="https://github.com/shadps4-compatibility/shadps4-game-compatibility/labels/status-menus">
+    <img src="https://img.shields.io/github/issues-search/shadps4-compatibility/shadps4-game-compatibility?query=is%3Aopen+label%3Astatus-menus&style=for-the-badge&color=orange&label=Menus"/>
+<a href="https://github.com/shadps4-compatibility/shadps4-game-compatibility/labels/status-boots">
+    <img src="https://img.shields.io/github/issues-search/shadps4-compatibility/shadps4-game-compatibility?query=is%3Aopen+label%3Astatus-boots&style=for-the-badge&color=red&label=Boots"/>
+<a href="https://github.com/shadps4-compatibility/shadps4-game-compatibility/labels/status-nothing">
+<img src="https://img.shields.io/github/issues-search/shadps4-compatibility/shadps4-game-compatibility?query=is%3Aopen+label%3Astatus-nothing&style=for-the-badge&color=black&label=Nothing"/>
+</h2>
 
-## Progress by Milestones
+- **status-playable**: Games that can be played without any major issue.
+- **status-ingame**: Games that can reach gameplay but have issues.
+- **status-menus**: Games that can reach the menu but freeze/crash when trying to proceed further.
+- **status-boots**: Games that show visual or audio output but freeze or crash before reaching the menu.
+- **status-nothing**: Games that crash when trying to launch or hang on a black screen.
 
-| Milestone | New Tests                                                                                                                     | Improved                                                                                                                    | Stable                                                                                                                      | Regressed                                                                                                                   | Total Tested                                                                                                               |
-|-----------|------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| v0.10.0   | ![New Tests](https://img.shields.io/github/issues-search/shadps4-compatibility/shadps4-game-compatibility?query=is%3Aopen+label%3Acomp-new+milestone%3Av0.10.0&style=for-the-badge&color=blue&label=New)          | ![Improved](https://img.shields.io/github/issues-search/shadps4-compatibility/shadps4-game-compatibility?query=is%3Aopen+label%3Acomp-improved+milestone%3Av0.10.0&style=for-the-badge&color=green&label=Improved)    | ![Stable](https://img.shields.io/github/issues-search/shadps4-compatibility/shadps4-game-compatibility?query=is%3Aopen+label%3Acomp-stable+milestone%3Av0.10.0&style=for-the-badge&color=gray&label=Stable)    | ![Regressed](https://img.shields.io/github/issues-search/shadps4-compatibility/shadps4-game-compatibility?query=is%3Aopen+label%3Acomp-regression+milestone%3Av0.10.0&style=for-the-badge&color=red&label=Regressed)    | ![Total Tested](https://img.shields.io/github/issues-search/shadps4-compatibility/shadps4-game-compatibility?query=is%3Aopen+milestone%3Av0.10.0&style=for-the-badge&color=orange&label=Total)      |
+## Progress on 0.10.0
+
+<h2 align="center">
+<a href="https://github.com/shadps4-compatibility/shadps4-game-compatibility/issues?q=is%3Aopen+label%3Acomp-new+milestone%3Av0.10.0">
+    <img src="https://img.shields.io/github/issues-search/shadps4-compatibility/shadps4-game-compatibility?query=is%3Aopen+label%3Acomp-new+milestone%3Av0.10.0&style=for-the-badge&color=blue&label=New" alt="New Tests"/>
+</a>
+<a href="https://github.com/shadps4-compatibility/shadps4-game-compatibility/issues?q=is%3Aopen+label%3Acomp-improved+milestone%3Av0.10.0">
+    <img src="https://img.shields.io/github/issues-search/shadps4-compatibility/shadps4-game-compatibility?query=is%3Aopen+label%3Acomp-improved+milestone%3Av0.10.0&style=for-the-badge&color=green&label=Improved" alt="Improved"/>
+</a>
+<a href="https://github.com/shadps4-compatibility/shadps4-game-compatibility/issues?q=is%3Aopen+label%3Acomp-stable+milestone%3Av0.10.0">
+    <img src="https://img.shields.io/github/issues-search/shadps4-compatibility/shadps4-game-compatibility?query=is%3Aopen+label%3Acomp-stable+milestone%3Av0.10.0&style=for-the-badge&color=gray&label=Stable" alt="Stable"/>
+</a>
+<a href="https://github.com/shadps4-compatibility/shadps4-game-compatibility/issues?q=is%3Aopen+label%3Acomp-regression+milestone%3Av0.10.0">
+    <img src="https://img.shields.io/github/issues-search/shadps4-compatibility/shadps4-game-compatibility?query=is%3Aopen+label%3Acomp-regression+milestone%3Av0.10.0&style=for-the-badge&color=red&label=Regressed" alt="Regressed"/>
+</a>
+<a href="https://github.com/shadps4-compatibility/shadps4-game-compatibility/issues?q=is%3Aopen+milestone%3Av0.10.0">
+    <img src="https://img.shields.io/github/issues-search/shadps4-compatibility/shadps4-game-compatibility?query=is%3Aopen+milestone%3Av0.10.0&style=for-the-badge&color=orange&label=Total" alt="Total Tested"/>
+</a>
+</h2>
 
 ## Platform Breakdown
 
