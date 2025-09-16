@@ -49,6 +49,21 @@ PlayStation 4 games compatibility reports with shadPS4 emulator.
 
 ## Platform Breakdown
 
+<h2 align="center">
+<a href="https://github.com/shadps4-compatibility/shadps4-game-compatibility/issues?q=is%3Aopen+label%3Aos-windows">
+    <img src="https://img.shields.io/github/issues-search/shadps4-compatibility/shadps4-game-compatibility?query=is%3Aopen+label%3Aos-windows&style=for-the-badge&color=blue&label=Windows" alt="Windows"/>
+</a>
+<a href="https://github.com/shadps4-compatibility/shadps4-game-compatibility/issues?q=is%3Aopen+label%3Aos-linux">
+    <img src="https://img.shields.io/github/issues-search/shadps4-compatibility/shadps4-game-compatibility?query=is%3Aopen+label%3Aos-linux&style=for-the-badge&color=green&label=Linux" alt="Linux"/>
+</a>
+<a href="https://github.com/shadps4-compatibility/shadps4-game-compatibility/issues?q=is%3Aopen+label%3Aos-macos">
+    <img src="https://img.shields.io/github/issues-search/shadps4-compatibility/shadps4-game-compatibility?query=is%3Aopen+label%3Aos-macos&style=for-the-badge&color=gray&label=macOS" alt="macOS"/>
+</a>
+<a href="https://github.com/shadps4-compatibility/shadps4-game-compatibility/issues?q=is%3Aopen">
+    <img src="https://img.shields.io/github/issues-shadps4-compatibility/shadps4-game-compatibility?style=for-the-badge&label=Total+Reports&color=orange" alt="Total Reports"/>
+</a>
+</h2>
+
 | OS      | Reports                                                                                                                   | Notes                     |
 |---------|---------------------------------------------------------------------------------------------------------------------------|---------------------------|
 | Windows | ![Windows](https://img.shields.io/github/issues-search/shadps4-compatibility/shadps4-game-compatibility?query=is%3Aopen+label%3Aos-windows&style=for-the-badge&color=blue&label=Windows)         | Most tested platform       |
