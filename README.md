@@ -60,7 +60,7 @@ PlayStation 4 games compatibility reports with shadPS4 emulator.
     <img src="https://img.shields.io/github/issues-search/shadps4-compatibility/shadps4-game-compatibility?query=is%3Aopen+label%3Aos-macos&style=for-the-badge&color=gray&label=macOS" alt="macOS"/>
 </a>
 <a href="https://github.com/shadps4-compatibility/shadps4-game-compatibility/issues?q=is%3Aopen">
-    <img src="https://img.shields.io/github/issues-search/shadps4-compatibility/shadps4-game-compatibility?style=for-the-badge&label=Total+Reports&color=orange" alt="Total Reports"/>
+    <img src="https://img.shields.io/github/issues/shadps4-compatibility/shadps4-game-compatibility?style=for-the-badge&label=Total+Reports&color=orange" alt="Total Reports"/>
 </a>
 </h2>
 
