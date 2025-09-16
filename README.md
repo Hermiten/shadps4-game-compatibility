@@ -29,7 +29,7 @@ PlayStation 4 games compatibility reports with shadPS4 emulator.
 | Windows | ![Windows](https://img.shields.io/github/issues-search/shadps4-compatibility/shadps4-game-compatibility?query=is%3Aopen+label%3Aos-windows&style=for-the-badge&color=blue&label=Windows)         | Most tested platform       |
 | Linux   | ![Linux](https://img.shields.io/github/issues-search/shadps4-compatibility/shadps4-game-compatibility?query=is%3Aopen+label%3Aos-linux&style=for-the-badge&color=green&label=Linux)                   | Growing support            |
 | macOS   | ![macOS](https://img.shields.io/github/issues-search/shadps4-compatibility/shadps4-game-compatibility?query=is%3Aopen+label%3Aos-macos&style=for-the-badge&color=gray&label=macOS)                    | Limited reports            |
-
+| Total Report | [Total Reports](https://img.shields.io/github/issues/shadps4-compatibility/shadps4-game-compatibility?style=for-the-badge&label=Total+Reports&color=orange) | |
 ## Contributors Stats
 
 - Total reports submitted: ![Total Reports](https://img.shields.io/github/issues/shadps4-compatibility/shadps4-game-compatibility?style=for-the-badge&label=Total+Reports&color=orange)  
